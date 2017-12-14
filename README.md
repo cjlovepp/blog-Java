@@ -1,12 +1,10 @@
-# blog-Java-
-记录一些Java相关的基础知识
+# blog-Java
+> 记录一些Java相关的基础知识
+![](assets/6ed0b1ea.jpg)
 
 
-* [Introduction](README.md)
-* [第一个](di-yi-ge.md)
-
-* [并发]
+* [目录](SUMMARY.md)
+* [并发]()
   * [多线程](./并发/多线程.md)
-
-* [test]
+* [test]()
   * [show](内存管理.md)
